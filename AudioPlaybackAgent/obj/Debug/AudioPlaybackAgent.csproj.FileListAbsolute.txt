@@ -1,0 +1,8 @@
+E:\App Project\Learn VietNamese\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.dll
+E:\App Project\Learn VietNamese\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.pdb
+E:\App Project\Learn VietNamese\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.dll
+E:\App Project\Learn VietNamese\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.pdb
+E:\AppProject\Learn Vietnamese\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.dll
+E:\AppProject\Learn Vietnamese\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.pdb
+E:\AppProject\Learn Vietnamese\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.dll
+E:\AppProject\Learn Vietnamese\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.pdb

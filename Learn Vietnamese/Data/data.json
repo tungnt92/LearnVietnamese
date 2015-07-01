@@ -1,0 +1,275 @@
+﻿{
+    "Items": [
+        {
+            "ID": "0",
+            "LineOne": "At the restaurant",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/restaurant.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2015_03_24/2303%20day%20tv.mp3",
+            "Track": "At the restaurant",
+            "Fav": ""
+        },
+        {
+            "ID": "1",
+            "LineOne": "Shopping",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/shopping.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2015_03_09/0903%20tqh.mp3",
+            "Track": "Shopping",
+            "Fav": ""
+        },
+        {
+            "ID": "2",
+            "LineOne": "Cost",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/cost.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2015_03_03/0203%20day%20tv.mp3",
+            "Track": "Cost",
+            "Fav": ""
+        },
+        {
+            "ID": "3",
+            "LineOne": "Post Office",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/post office.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2015_02_03/2-2%20SMDT.mp3",
+            "Track": "Post Office",
+            "Fav": ""
+        },
+        {
+            "ID": "4",
+            "LineOne": "Family",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Family.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2015_01_30/29-1%20day%20TV.mp3",
+            "Track": "Family",
+            "Fav": ""
+        },
+        {
+            "ID": "5",
+            "LineOne": "Family Relative",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/FamilyRelative.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2015_01_16/1501%20day%20tv.mp3",
+            "Track": "Family,Relative",
+            "Fav": ""
+        },
+        {
+            "ID": "6",
+            "LineOne": "Time, Weather",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/TimeWeather.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lechien/2015_01_13/TV.mp3",
+            "Track": "Time, Weather",
+            "Fav": ""
+        },
+        {
+            "ID": "7",
+            "LineOne": "Get Acquainted",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Get Acquainted.png",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2015_01_09/8-1%20TV.mp3",
+            "Track": "Get Acquainted",
+            "Fav": ""
+        },
+        {
+            "ID": "9",
+            "LineOne": "Use of the largest, smallest",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/largestsmallest.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2014_12_11/0412%20day%20tv.mp3",
+            "Track": "Use of the largest, smallest",
+            "Fav": ""
+        },
+        {
+            "ID": "10",
+            "LineOne": "Using some words in Vietnamese",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Using some words in Vietnamese.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2014_11_24/2011%20day%20tv.mp3",
+            "Track": "Using some words in Vietnamese",
+            "Fav": ""
+        },
+
+        {
+            "ID": "11",
+            "LineOne": "How to convert sentences but remain significantly",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/How to convert sentences but remain significantly.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2014_10_20/301014%20day%20tv.mp3",
+            "Track": "How to convert sentences but remain significantly",
+            "Fav": ""
+        },
+        {
+            "ID": "12",
+            "LineOne": "Animals",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Animals and objects in the house.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_10_14/13-10%20day%20TV.mp3",
+            "Track": "Animals and objects in the house.",
+            "Fav": ""
+        },
+        {
+            "ID": "13",
+            "LineOne": "Art.",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Art.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_09_19/18-9%20TV.mp3",
+            "Track": "Art.",
+            "Fav": ""
+        },
+        {
+            "ID": "15",
+            "LineOne": "Adjective to describe food",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Adjective to describe food.jpg",
+            "Link": "http://vovworld.vn/Uploaded/kimlan/2014_08_05/TIENG_VIET.mp3",
+            "Track": "Lesson nature dishes and comparatives least.",
+            "Fav": ""
+        },
+        {
+            "ID": "16",
+            "LineOne": "Festivals",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/festival.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_07_25/24-7%20day%20TV.mp3",
+            "Track": "Festivals.",
+            "Fav": ""
+        },
+        {
+            "ID": "17",
+            "LineOne": "Do you know?",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/do you know.png",
+            "Link": "http://vovworld.vn/Uploaded/kimlan/2014_07_18/TIENG_VIET.mp3",
+            "Track": "Do you know.",
+            "Fav": ""
+        },
+        {
+            "ID": "20",
+            "LineOne": "Drink names and First ... then .... structure",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Drink name.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_06_24/23-6 day TV.mp3",
+            "Track": "Eating and sentence structure, First ..., then ...",
+            "Fav": ""
+        },
+        {
+            "ID": "21",
+            "LineOne": "Adjective to describe taste",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Adjective to describe taste.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_06_17/16-6%20day%20tv.mp3",
+            "Track": "Some words just drinks and taste adjectives",
+            "Fav": ""
+        },
+        {
+            "ID": "23",
+            "LineOne": "Sport",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/sport.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_06_06/05-06%20tv.mp3",
+            "Track": "Sport",
+            "Fav": ""
+        },
+        {
+            "ID": "24",
+            "LineOne": "Dining",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/dining.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_06_03/02-06%20day%20TV.mp3",
+            "Track": "Dining",
+            "Fav": ""
+        },
+        {
+            "ID": "25",
+            "LineOne": "How to order food at the Vietnam restaurant ",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/How to order food.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lechien/2014_05_20/TV.mp3",
+            "Track": "Learning how to eat ordering at the Vietnam restaurant ",
+            "Fav": ""
+        },
+        {
+            "ID": "26",
+            "LineOne": "Health ",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Health.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_05_16/15-5%20Day%20TV.mp3",
+            "Track": "Health ",
+            "Fav": ""
+        },
+        {
+            "ID": "30",
+            "LineOne": "Health Ep2 ",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Health.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_05_02/1-5%20day%20TV.mp3",
+            "Track": "Health topics ",
+            "Fav": ""
+        },
+        {
+            "ID": "31",
+            "LineOne": "Health Ep3 ",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/Health.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_04_18/17-4%20hvqn%20day%20tv.mp3",
+            "Track": "Health topics ",
+            "Fav": ""
+        },
+        {
+            "ID": "32",
+            "LineOne": "Price",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/price.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2014_04_15/140414%20day%20tv.mp3",
+            "Track": "Ask price of purchases (next) ",
+            "Fav": ""
+        },
+        {
+            "ID": "33",
+            "LineOne": "Price Ep2",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/price.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lechien/2014_04_08/TV.mp3",
+            "Track": "Question in purchase price ",
+            "Fav": ""
+        },
+        {
+            "ID": "34",
+            "LineOne": "Price Ep3",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/price.jpg",
+            "Link": "http://vovworld.vn/Uploaded/lanphuong/2014_04_15/140414%20day%20tv.mp3",
+            "Track": "Question in purchase price (next)",
+            "Fav": ""
+        },
+        {
+            "ID": "37",
+            "LineOne": "Shopping Ep2",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/shopping.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_03_25/24-3%20day%20TV.mp3",
+            "Track": "Shopping and structural questions about price",
+            "Fav": ""
+        },
+        {
+            "ID": "38",
+            "LineOne": "Traffic and shopping",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/traffic and shopping.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_03_21/20-3%20TV.mp3",
+            "Track": "Transportation, shopping(review)",
+            "Fav": ""
+        },
+        {
+            "ID": "40",
+            "LineOne": "Time and weather Ep2",
+            "LineTwo": "",
+            "LineThree": "/Assets/lesson/TimeWeather.jpg",
+            "Link": "http://vovworld.vn/Uploaded/honganh/2014_03_07/6-3%20day%20TV.mp3",
+            "Track": "Time and weather",
+            "Fav": ""
+        }
+    ]
+}
